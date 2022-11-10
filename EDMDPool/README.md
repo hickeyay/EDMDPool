@@ -11,9 +11,11 @@
     ./run_EDMDPool.sh DATA FOLD GPU
 to run on dataset using fold number (1-10).
 You can run
-```python
-    ./run_EDMDPool.sh DD 0 0
+```
+./run_EDMDPool.sh DD 0 0
 ```
 to run on DD dataset with 10-fold cross validation on GPU #0.
-    ./run_EDMDPool.sh COLLAB 1 1
+```
+./run_EDMDPool.sh COLLAB 1 1
+```
 to run on COLLAB dataset with first fold on GPU #1.
