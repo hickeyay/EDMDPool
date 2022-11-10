@@ -10,7 +10,6 @@
 ### Run
     ./run_EDMDPool.sh DATA FOLD GPU
 to run on dataset using fold number (1-10).
-
 You can run
     ./run_EDMDPool.sh DD 0 0
 to run on DD dataset with 10-fold cross validation on GPU #0.
