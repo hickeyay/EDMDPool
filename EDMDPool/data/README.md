@@ -9,4 +9,4 @@
     - following `d` numbers (if any) indicate the continuous node features (attributes)
 ### preprocessing
 * Original data downloaded from: https://chrsmrrs.github.io/datasets/docs/datasets/
-* using transform.py to form data in this paper.
+* using preprocessing/transform.py to form data in this paper.
